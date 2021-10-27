@@ -11,4 +11,4 @@ Pues bien, el modelo OSI se estructura en 7 capas. Pero, ¿por qué 7 capas? Tod
 Estas siete capas mantienen una estructura piramidal, tal y como se muestra en la siguiente imagen.
 
 
-<img src="./img/MODELO OSI.jpg" alt="Imagen modelo OSI">
+<img src="./img/MODELO OSI.jpg" alt="Imagen modelo OSI" align="center">
